@@ -1,0 +1,16 @@
+.searchText{
+    padding: 40px 10px;
+    text-align: center;
+}
+.searchValue{
+    padding: 10px 30px;
+}
+.BrandValue{
+    text-align: center;
+    background: linear-gradient(90deg, rgb(189, 236, 57), rgb(145, 31, 107));
+    margin: 10px 160px;
+    padding: 15px 0;
+    font-weight: bold;
+    font-size: 18px;
+    color: #fff;
+}
